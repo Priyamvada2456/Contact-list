@@ -1,7 +1,7 @@
 # 📇 Contact List — React Single-Page Application
 
 ## 🚀 Live Demo
-👉 [Deployed App on Vercel](https://your-vercel-link-here)
+👉 [Deployed App on Vercel]( https://contact-list-p0trk2gvx-priyamvadas-projects-c18d7a18.vercel.app )
 
 ## 🧠 Overview
 This is a single-page web app built using **React (Vite)** that allows users to view, search, and add contacts.  
